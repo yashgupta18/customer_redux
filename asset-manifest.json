@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yashgupta18/customer_redux/static/css/main.eb7930ea.chunk.css",
+    "main.js": "/yashgupta18/customer_redux/static/js/main.ef89baea.chunk.js",
+    "main.js.map": "/yashgupta18/customer_redux/static/js/main.ef89baea.chunk.js.map",
+    "runtime-main.js": "/yashgupta18/customer_redux/static/js/runtime-main.0856ac6b.js",
+    "runtime-main.js.map": "/yashgupta18/customer_redux/static/js/runtime-main.0856ac6b.js.map",
+    "static/js/2.c67b57f7.chunk.js": "/yashgupta18/customer_redux/static/js/2.c67b57f7.chunk.js",
+    "static/js/2.c67b57f7.chunk.js.map": "/yashgupta18/customer_redux/static/js/2.c67b57f7.chunk.js.map",
+    "index.html": "/yashgupta18/customer_redux/index.html",
+    "static/css/main.eb7930ea.chunk.css.map": "/yashgupta18/customer_redux/static/css/main.eb7930ea.chunk.css.map",
+    "static/js/2.c67b57f7.chunk.js.LICENSE.txt": "/yashgupta18/customer_redux/static/js/2.c67b57f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0856ac6b.js",
+    "static/js/2.c67b57f7.chunk.js",
+    "static/css/main.eb7930ea.chunk.css",
+    "static/js/main.ef89baea.chunk.js"
+  ]
+}
