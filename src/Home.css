@@ -1,0 +1,39 @@
+*{
+  margin: 10px;
+}
+
+.rightsection{
+  float: right;
+  margin-right: 10px;
+}
+.right{
+  margin-right: 20px;
+}
+.mytext{
+  font-size: 10px;
+
+}
+.myhead{
+    border: double;
+    margin: 10px;
+}
+.scrollList {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.bodyList{
+  border: solid;
+  margin:4px, 4px; 
+  padding:4px; 
+  width: 400px; 
+  height: 400px; 
+  overflow-x: hidden; 
+  overflow-y: auto; 
+  text-align:justify; 
+}
+.App-title{
+  text-align: center;
+}

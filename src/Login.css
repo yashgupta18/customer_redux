@@ -1,0 +1,14 @@
+.login{
+    display: grid;
+    place-items:center;
+    height:90vh;
+    margin-top:10px;
+}
+.login h1{
+    display: grid;
+    place-items:center;
+}
+/* .login > div{
+    display: flex;
+    flex-direction: column;
+} */
